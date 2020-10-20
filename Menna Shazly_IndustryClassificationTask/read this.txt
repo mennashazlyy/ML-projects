@@ -1,0 +1,3 @@
+must have glove data with dimention 300
+the running takes few seconds to run can rich 1 min because it load glove with 1G size
+to run on api send post request to local host and jason body as screenshot in this file
